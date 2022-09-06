@@ -48,4 +48,5 @@ section#login > #imagem{
 
 section#login > #formulario{
     display: block;
+    padding: 10px;
 }
