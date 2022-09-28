@@ -75,6 +75,7 @@ div.campo > input{
 
 div.campo > input:focus-within{
     background-color: yellow;
+    outline: none;
 }
 
 section#login > #imagem{
